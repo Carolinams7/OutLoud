@@ -27,6 +27,7 @@ $(document).ready(function() {
       youtubeURL: youtubeURLInput.val().trim(),
       categorization: $("input[name=inputRadio]:checked", "#postForm").val()
     };
+    
     console.log(postData.postTitle);
     console.log(postData.youtubeURL);
     console.log(postData.categorization);
@@ -38,11 +39,13 @@ $(document).ready(function() {
       paypalUsername,
       objuserid
     );
+    
     postTitleInput.val("");
     youtubeURLInput.val("");
     setTimeout(function() {
       $("input[name=inputRadio]:checked", "#postForm").prop("checked", false);
     });
+    
     $(".alert").show();
     setTimeout(function() {
       $(".alert").hide();
