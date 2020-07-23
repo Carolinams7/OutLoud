@@ -7,14 +7,17 @@ module.exports = function(sequelize, DataTypes) {
         len: [1]
       }
     },
+    
     categorization: {
       type: DataTypes.TEXT,
       allowNull: false,
       len: [1]
     },
+    
     youtubeURL: {
       type: DataTypes.TEXT
     },
+    
     paypalEmail: {
       type: DataTypes.TEXT
     }
