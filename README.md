@@ -2,9 +2,9 @@
 
 Comedy app created for 2 types of users: the comedian that will upload standup and improv videos of self and the viewers to watch those.
 
-> [Demo](https://appartment3.herokuapp.com/)
+> [Demo](https://nuproject2.herokuapp.com/)
 
-<img src="https://github.com/Carolinams7/appArtment/raw/master/client/public/images/appArtmentpic.png"/>
+<img src="https://github.com/Carolinams7/OutLoud/raw/master/public/OutLoudpic.png"/>
 
 ## Overview
 
