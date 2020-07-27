@@ -2,6 +2,10 @@
 
 Comedy app created for 2 types of users: the comedian that will upload standup and improv videos of self and the viewers to watch those.
 
+> [Demo](https://appartment3.herokuapp.com/)
+
+<img src="https://github.com/Carolinams7/appArtment/raw/master/client/public/images/appArtmentpic.png"/>
+
 ## Overview
 
 This was thought due this current pandemic situation where the artist/comedian have a possibility to work.
